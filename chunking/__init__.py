@@ -1,0 +1,6 @@
+"""Text chunking module for RAG system."""
+
+from .text_splitter import TextSplitter
+
+__all__ = ['TextSplitter']
+
